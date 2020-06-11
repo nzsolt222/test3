@@ -1,0 +1,8 @@
+image: "ruby:2.6"
+
+before_script:
+  - echo Hello
+
+rspec:
+  script:
+    - echo Hello
